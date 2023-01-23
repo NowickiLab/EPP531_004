@@ -1,0 +1,18 @@
+https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008373	The alternative reality of plant mitochondrial DNA: One ring does not rule them all
+https://www.sciencedirect.com/science/article/pii/S1055790319301757	Phylogenomics of Orchidaceae based on plastid and mitochondrial genomes
+https://www.mdpi.com/2073-4425/13/6/1036	The Roles of Mutation and Selection Acting on Mitochondrial Genomes Inferred from Intraspecific Variation in Seed Plants
+https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13937	The RadOrgMiner pipeline: Automated genotyping of organellar loci from RADseq data
+https://www.frontiersin.org/articles/10.3389/fgene.2020.576124/full	Chloroplot: An Online Program for the Versatile Plotting of Organelle Genomes
+https://www.sciencedirect.com/science/article/pii/S167420521830337X	Tension and Resolution: Dynamic, Evolving Populations of Organelle Genomes within Plant Cells
+https://link.springer.com/chapter/10.1007/978-3-319-67156-7_11	Decoding the Plastid Genome
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1632-4	Skmer: assembly-free and alignment-free sample identification using genome skims
+https://www.sciencedirect.com/science/article/pii/S006522961730085X	Structural Diversity Among Plastid Genomes of Land Plants
+https://www.mdpi.com/2223-7747/9/4/432	The Treasure Vault Can be Opened: Large-Scale Genome Skimming Works Well Using Herbarium and Silica Gel Dried Material
+https://www.mdpi.com/2218-273X/9/8/299	Small Genomes and Big Data: Adaptation of Plastid Genomics to the High-Throughput Era
+https://www.frontiersin.org/articles/10.3389/fpls.2021.781793/full	The History and Diversity of Rice Domestication as Resolved From 1464 Complete Plastid Genomes
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8499	Loss of the IR region in conifer plastomes: Changes in the selection pressure and substitution rate of protein-coding genes
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3475-0	PACVr: plastome assembly coverage visualization in R
+https://www.mdpi.com/2223-7747/10/7/1360	Towards the Well-Tempered Chloroplast DNA Sequences
+https://www.mdpi.com/2075-1729/8/3/25	Bioinformatic Workflows for Generating Complete Plastid Genome Sequences—An Example from Cabomba (Cabombaceae) in the Context of the Phylogenomic Analysis of the Water-Lily Clade
+https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.13491	What can we do with 1000 plastid genomes?
+https://www.pnas.org/doi/10.1073/pnas.2206076119	Pan-mitogenomics reveals the genetic basis of cytonuclear conflicts in citrus
