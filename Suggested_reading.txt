@@ -16,3 +16,4 @@ https://www.mdpi.com/2223-7747/10/7/1360	Towards the Well-Tempered Chloroplast D
 https://www.mdpi.com/2075-1729/8/3/25	Bioinformatic Workflows for Generating Complete Plastid Genome Sequences—An Example from Cabomba (Cabombaceae) in the Context of the Phylogenomic Analysis of the Water-Lily Clade
 https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.13491	What can we do with 1000 plastid genomes?
 https://www.pnas.org/doi/10.1073/pnas.2206076119	Pan-mitogenomics reveals the genetic basis of cytonuclear conflicts in citrus
+https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13556 Green giant—a tiny chloroplast genome with mighty power to produce high-value proteins: history and phylogeny
