@@ -18,3 +18,6 @@ https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.13491	What can we do with 1
 https://www.pnas.org/doi/10.1073/pnas.2206076119	Pan-mitogenomics reveals the genetic basis of cytonuclear conflicts in citrus
 https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13556 Green giant—a tiny chloroplast genome with mighty power to produce high-value proteins: history and phylogeny
 https://www.scielo.br/j/gmb/a/kRQX63dHrC9m7xVnSxCfVqd/abstract/?lang=en Mantel test in population genetics
+https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01166-2 Plastid phylogenomic insights into relationships of all flowering plant families
+https://sci-hub.ru/10.1111/1755-0998.12251 Highly Effective Sequencing Whole Chloroplast Genomes of Angiosperms by Nine Novel Universal Primer Pairs 
+https://link.springer.com/article/10.1007/s10722-022-01527-y Genetic survey extension of the threatened Iberian Arnica montana L. revealed the presence of divergent plastid lineages and highly structured populations in northern Spain
