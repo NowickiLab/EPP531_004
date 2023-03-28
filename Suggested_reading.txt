@@ -21,3 +21,4 @@ https://www.scielo.br/j/gmb/a/kRQX63dHrC9m7xVnSxCfVqd/abstract/?lang=en Mantel t
 https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01166-2 Plastid phylogenomic insights into relationships of all flowering plant families
 https://sci-hub.ru/10.1111/1755-0998.12251 Highly Effective Sequencing Whole Chloroplast Genomes of Angiosperms by Nine Novel Universal Primer Pairs 
 https://link.springer.com/article/10.1007/s10722-022-01527-y Genetic survey extension of the threatened Iberian Arnica montana L. revealed the presence of divergent plastid lineages and highly structured populations in northern Spain
+https://link.springer.com/article/10.1007/s11676-022-01511-3 Assembly and analysis of the Populus deltoides mitochondrial genome: the first report of a multicircular mitochondrial conformation for the genus Populus
